@@ -1,6 +1,6 @@
 //For command line git tutorial
-//First: GitHub modification
-//Second: Local repository modification
+//First: GitHub moaddification
+//Second: Local repoaasitory modification
 #include <stdio.h>
 
 int main(void)
@@ -9,7 +9,7 @@ int main(void)
 	printf("Hello Your World\n");
 	printf("Hello his World\n");
 	printf("Hello her World\n");
-	printf("Hello aaa world\n");
+	printf("Hello b world\n");
 	
 	return 0;
 }
