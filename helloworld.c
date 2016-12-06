@@ -1,6 +1,6 @@
 //For command line git tutorial
-//First: GitHub moaddification
-//Second: Local repoaasitory modification
+//First: GitHub moaddifiwetion
+//Second: Local repoaasito modification
 #include <stdio.h>
 
 int main(void)
